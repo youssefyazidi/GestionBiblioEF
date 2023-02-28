@@ -1,0 +1,14 @@
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\GestionBiblioEF.exe.config
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\GestionBiblioEF.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\GestionBiblioEF.pdb
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\EntityFramework.dll
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\EntityFramework.xml
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.csprojResolveAssemblyReference.cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.Form1.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.Properties.Resources.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.csproj.GenerateResource.Cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\GestionBiblioEF\GestionBiblioEF\obj\Debug\GestionBiblioEF.pdb
